@@ -17,6 +17,7 @@ description: .NET samples demonstrating how to use AI in your .NET applications.
 # Important Links
 - [.NET Dev Blogs](https://devblogs.microsoft.com/dotnet)
 - [Vector DB Qdrant](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/)
+- [Ingestion Data](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/)
 # AI Samples for .NET
 
 Welcome to the official home for .NET samples demonstrating how to use AI in your .NET applications. If you're new to AI, start at the top and work your way down. Otherwise, jump in wherever suits your interests.
