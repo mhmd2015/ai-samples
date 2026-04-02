@@ -14,7 +14,8 @@ name: AI Samples for .NET
 description: .NET samples demonstrating how to use AI in your .NET applications.
 ---
 <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
-
+# Important Links
+- [Vector DB Qdrant](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/)
 # AI Samples for .NET
 
 Welcome to the official home for .NET samples demonstrating how to use AI in your .NET applications. If you're new to AI, start at the top and work your way down. Otherwise, jump in wherever suits your interests.
